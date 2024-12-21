@@ -3,7 +3,7 @@ Archaeological statistical analysis of Dressel 20 amphorae rim morphometry from 
 
 ## Overview
 
-This repository contains the statistical analysis of Dressel 20 amphorae rim morphometry from the Baetica province (modern-day Andalusia, Spain) during the Roman Empire. The study was conducted as the final submission for the course "Statistics for Archaeologists" as part of my master's in Digital Archaeology program at Leiden University.
+This repository contains the statistical analysis of Dressel 20 amphorae rim morphometry from the Baetica province (modern-day Andalusia, Spain) during the Roman Empire. The study was conducted as the final submission for the course "Quantitative Methods in Archaeology" as part of my master's in Digital Archaeology program at Leiden University.
 
 ## Abstract
 
