@@ -1,3 +1,12 @@
+# ====================================================
+#               Amphorae Data Analysis
+# ====================================================
+# Author: Sohini Mallick
+# Description: Comprehensive data cleaning, exploratory
+#              analysis, and hypothesis testing on
+#              Amphorae datasets.
+# ====================================================
+
 
 #### ABOUT THE DATASET ####
 # Source: https://github.com/Mcotsar/LearningBaetica
@@ -16,7 +25,9 @@ library(rstatix)
 library(car)
 
 #### READING THE DATA####
-Data<<-read.csv(file.choose(), header=TRUE, stringsAsFactors = TRUE)
+data_path <- "./data/dataDressel.csv"
+Data <<- read.csv(data_path, header = TRUE, stringsAsFactors = TRUE)
+
 head(Data)
 # Checking the levels in the data
 levels(Data$excavation) #Consists of the name of 5 site within the region from which amphorae data has been collected
