@@ -16,7 +16,7 @@ The Baetica region, corresponding to modern-day Andalusia, was a key area for ol
 ## Data Description
 
 The dataset includes:
-- Three categorical variables: type (Dressel C, D, E), excavation sites, and chronology.Workflow of statistical analysisWorkflow of statistical analysis
+- Three categorical variables: type (Dressel C, D, E), excavation sites, and chronology.
 - Eight quantitative morphometric dimensions of the rims.
 
 ## Statistical Analysis
